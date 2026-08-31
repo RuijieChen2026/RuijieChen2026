@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile-header.svg" width="100%" alt="Ruijie Chen — Data Engineering and Analytics. Animated Extract, Transform, Load pipeline." />
+  <img src="profile-header.svg" width="100%" alt="Ruijie Chen — Data Analyst Portfolio. Animated Prepare, Analyse, Communicate workflow." />
 </p>
 
 <p align="center">
@@ -11,21 +11,25 @@
 
 ## About
 
-Hi, I'm **Ruijie Chen**. My project work focuses on **data engineering, analytics and geospatial visualisation** — connecting data from different sources and making it useful through Python and SQL.
+Hi, I'm **Ruijie Chen**, seeking **data analyst opportunities**. I use **Python and SQL** to clean and explore data, investigate patterns, and communicate findings through charts, maps and clear documentation.
 
-- **Build:** data acquisition, cleaning and integration workflows.
-- **Explore:** renewable energy data, regional patterns and spatial context.
-- **Communicate:** clear charts, maps and documented analysis.
+- **Prepare:** clean, validate and combine datasets from multiple sources.
+- **Analyse:** compare categories and regions, summarise data, and investigate patterns.
+- **Communicate:** explain findings through visualisations, with clear assumptions and limitations.
 
 ## Featured Project
 
 ### [Australian Renewable Energy ETL Pipeline](https://github.com/RuijieChen2026/australian-renewable-energy-etl)
 
-An ETL and spatial analysis project integrating **CER, NGER and ABS** data to explore Australia's renewable energy landscape.
+**Analysis question:** How do renewable energy projects differ across Australian states and energy sources?
 
-| Data scope | Geocoding | Storage |
+Combined **CER, NGER and ABS** data to explore project distributions, supported by data cleaning, geocoding and PostgreSQL / PostGIS storage.
+
+**Findings:** Within the project dataset, renewable energy projects were concentrated in **New South Wales and Queensland**, and **solar** was the most common energy source. Maps showed clustering in eastern and south-eastern Australia. These are descriptive findings from a historical snapshot, not causal conclusions or a current national census.
+
+| Project dataset | Location matching | Analysis outputs |
 | :--- | :--- | :--- |
-| **157** CER renewable energy projects | **111** accepted matches · **70.7%** | **7** relational tables · PostgreSQL / PostGIS |
+| **157** CER renewable energy projects | **111** accepted matches · **70.7%** | State comparisons, energy-source charts and facility maps |
 
 **My contribution:** CER data acquisition and cleaning, Google Maps geocoding with match-quality checks, and visualisation of project distributions by state, energy source and location.
 
@@ -35,6 +39,8 @@ Built collaboratively with **Vo Thu Nga Phan** and **S Parameswaran**. Metrics d
 
 ## Tech Stack
 
+Core focus: **Python · SQL · Data Cleaning · Exploratory Data Analysis · Data Visualisation**
+
 Tools used in my project work:
 
 <p align="center">
@@ -43,20 +49,20 @@ Tools used in my project work:
 
 | Area | Tools & methods |
 | :--- | :--- |
-| Data acquisition | REST APIs, Requests, Beautiful Soup |
-| Data preparation | Python, pandas, NumPy |
-| Database & spatial analysis | SQL, PostgreSQL, PostGIS, SQLAlchemy |
-| Geocoding & visualisation | Google Maps Geocoding API, GeoPandas, Matplotlib |
-| Analysis & documentation | Jupyter Notebook, project reports, ER diagrams |
+| Data cleaning & preparation | Python, pandas, NumPy |
+| Querying & aggregation | SQL, PostgreSQL |
+| Exploratory analysis & visualisation | pandas, Matplotlib, GeoPandas, Jupyter |
+| Communicating findings | Comparative charts, maps, written analysis |
+| Supporting data workflows | REST APIs, Beautiful Soup, PostGIS, SQLAlchemy, Google Maps Geocoding API |
 
 ## 中文简介
 
-我是 **Ruijie Chen**，项目方向聚焦于**数据工程、数据分析与地理空间可视化**。我使用 Python 和 SQL 完成多源数据获取、清洗、整合，并通过地图与图表呈现分析结果。
+我是 **Ruijie Chen**，正在寻找**数据分析相关岗位**。我使用 **Python 和 SQL** 清洗、整合与探索数据，通过分类比较、区域分析和可视化回答问题，并清晰说明结果与局限。
 
-在[澳大利亚可再生能源 ETL 数据管道](https://github.com/RuijieChen2026/australian-renewable-energy-etl)项目中，我负责 CER 数据获取与清洗、Google Maps 地理编码及可视化。项目结合 NGER、CER 和 ABS 数据，使用 PostgreSQL / PostGIS 支持数据存储与空间分析。
+在[澳大利亚可再生能源 ETL 数据管道](https://github.com/RuijieChen2026/australian-renewable-energy-etl)项目中，我负责 CER 数据获取与清洗、Google Maps 地理编码及可视化。分析重点是各州项目分布和能源类型差异：在项目数据快照中，项目主要集中在新南威尔士州和昆士兰州，太阳能是最常见的能源类型。ETL 与 PostgreSQL / PostGIS 为分析提供数据准备和存储支持。
 
 [查看完整中英双语项目介绍 →](https://github.com/RuijieChen2026/australian-renewable-energy-etl/blob/main/PROJECT_OVERVIEW.md)
 
 ---
 
-<p align="center"><sub>Python & SQL · Data pipelines · Geospatial analysis</sub></p>
+<p align="center"><sub>Python & SQL · Data Analysis · Visual Storytelling</sub></p>
