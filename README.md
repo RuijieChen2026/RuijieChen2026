@@ -6,7 +6,8 @@
   <a href="#about">About</a> &nbsp;·&nbsp;
   <a href="#featured-project">Featured Project</a> &nbsp;·&nbsp;
   <a href="#tech-stack">Tech Stack</a> &nbsp;·&nbsp;
-  <a href="#中文简介">中文简介</a>
+  <a href="#中文简介">中文简介</a> &nbsp;·&nbsp;
+  <a href="mailto:1556034192@qq.com">Email</a>
 </p>
 
 ## About
@@ -16,6 +17,8 @@ Hi, I'm **Ruijie Chen**, seeking **data analyst opportunities**. I use **Python 
 - **Prepare:** clean, validate and combine datasets from multiple sources.
 - **Analyse:** compare categories and regions, summarise data, and investigate patterns.
 - **Communicate:** explain findings through visualisations, with clear assumptions and limitations.
+
+**Contact / 联系邮箱:** [1556034192@qq.com](mailto:1556034192@qq.com)
 
 ## Featured Project
 
