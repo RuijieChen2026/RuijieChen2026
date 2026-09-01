@@ -42,7 +42,9 @@ Built collaboratively with **Vo Thu Nga Phan** and **S Parameswaran**. Metrics d
 
 ## Tech Stack
 
-**Python · SQL**
+<p align="center">
+  <img src="tech-stack.svg" width="100%" alt="Tech stack: Python and SQL" />
+</p>
 
 ## 中文简介
 
