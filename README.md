@@ -42,21 +42,7 @@ Built collaboratively with **Vo Thu Nga Phan** and **S Parameswaran**. Metrics d
 
 ## Tech Stack
 
-Core focus: **Python · SQL · Data Cleaning · Exploratory Data Analysis · Data Visualisation**
-
-Tools used in my project work:
-
-<p align="center">
-  <img src="tech-stack.svg" width="100%" alt="Python, SQL, pandas, NumPy, PostgreSQL, PostGIS, GeoPandas, Matplotlib, SQLAlchemy and Jupyter" />
-</p>
-
-| Area | Tools & methods |
-| :--- | :--- |
-| Data cleaning & preparation | Python, pandas, NumPy |
-| Querying & aggregation | SQL, PostgreSQL |
-| Exploratory analysis & visualisation | pandas, Matplotlib, GeoPandas, Jupyter |
-| Communicating findings | Comparative charts, maps, written analysis |
-| Supporting data workflows | REST APIs, Beautiful Soup, PostGIS, SQLAlchemy, Google Maps Geocoding API |
+**Python · SQL**
 
 ## 中文简介
 
